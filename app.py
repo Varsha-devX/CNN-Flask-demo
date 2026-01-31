@@ -18,5 +18,5 @@ def abc():
     return render_template("abc.html")
 
 if __name__ == "__main__":
-    app.run(debug=True , host="[IP_ADDRESS]",port=5001)
+    app.run(debug=True , host="[IP_ADDRESS]",port=5000)
 
